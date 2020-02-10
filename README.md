@@ -1,4 +1,4 @@
-# Java How to Program, 10/e, ELatearly Objects Version
+# Java How to Program, 10/e, Late Objects Version
 Code downloads for Java How to Program, 10/e, Late Objects Version
 
 All examples are copyright Pearson Education, Inc. and are for your own personal use. 
